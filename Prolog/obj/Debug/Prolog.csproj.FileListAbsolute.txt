@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\obj\Debug\Prolog.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\bin\Debug\Prolog.dll
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\bin\Debug\Prolog.pdb
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\bin\Debug\UnityEngine.dll
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\obj\Debug\Prolog.dll
+\\psf\home\documents\visual studio 2012\Projects\Unity Prolog\Prolog\obj\Debug\Prolog.pdb
